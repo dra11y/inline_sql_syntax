@@ -2,6 +2,8 @@
 .vscode-test/**
 out/test/**
 out/**/*.map
+extension/test/**
+extension/**/*.map
 src/**
 .gitignore
 tsconfig.json
@@ -10,3 +12,4 @@ tslint.json
 run.sh
 docker-compose.yml
 docs/**
+node_modules/**
